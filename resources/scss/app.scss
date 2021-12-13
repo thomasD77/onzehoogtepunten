@@ -1,0 +1,74 @@
+body, header {
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+}
+
+@font-face {
+    font-family: OpenSans-Light;
+    src: url('../fonts/OpenSans/OpenSans-Light.ttf');
+}
+
+@font-face {
+    font-family: OpenSans-Bold;
+    src: url('../fonts/OpenSans/OpenSans-Bold.ttf');
+}
+
+@font-face {
+    font-family: NorthAvvelion;
+    src: url('../fonts/north-avellion/North Avellion DEMO.ttf');
+}
+
+@font-face {
+    font-family: Montserrat-Regular;
+    src: url('../fonts/Montserrat/Montserrat-Regular.ttf');
+}
+
+@font-face {
+    font-family: Montserrat-Bold;
+    src: url('../fonts/Montserrat/Montserrat-Bold.ttf');
+}
+
+
+// Header //
+
+.header__topbar {
+    display: flex;
+    align-items: center;
+}
+
+.plus {
+    font-family: OpenSans-Bold;
+    font-size: 41px;
+    margin-bottom: 0;
+}
+
+.tagline {
+    font-family: OpenSans-Light;
+    font-size: 24px;
+    margin-bottom: 0;
+    padding-left: 5px;
+}
+
+.header__title__section {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(244,244,244);
+    text-align: center;
+    height: 100%;
+    h2 {
+        padding: 50px 0;
+    }
+    p {
+        font-family: Montserrat-Regular;
+    }
+    .bold {
+        font-family: Montserrat-Bold;
+    }
+}
+
+h2 {
+    //font-family: NorthAvvelion;
+    font-size: 120px;
+}
+
+

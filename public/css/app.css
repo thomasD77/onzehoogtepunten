@@ -1,0 +1,63 @@
+body, header {
+  padding-left: 2.5%;
+  padding-right: 2.5%;
+}
+
+@font-face {
+  font-family: OpenSans-Light;
+  src: url(/fonts/OpenSans-Light.ttf?846a12caf01a940847a709ae90dff26f);
+}
+@font-face {
+  font-family: OpenSans-Bold;
+  src: url(/fonts/OpenSans-Bold.ttf?6e27168fc8a5a200a0265a9ac39d04d7);
+}
+@font-face {
+  font-family: NorthAvvelion;
+  src: url("/fonts/North Avellion DEMO.ttf?06df238f4039096a48a5aeb8daff44f0");
+}
+@font-face {
+  font-family: Montserrat-Regular;
+  src: url(/fonts/Montserrat-Regular.ttf?3cd786652b8a2e9d41f210cb1a527ff6);
+}
+@font-face {
+  font-family: Montserrat-Bold;
+  src: url(/fonts/Montserrat-Bold.ttf?079ca05d3ded9bc107ab8a8da013be22);
+}
+.header__topbar {
+  display: flex;
+  align-items: center;
+}
+
+.plus {
+  font-family: OpenSans-Bold;
+  font-size: 41px;
+  margin-bottom: 0;
+}
+
+.tagline {
+  font-family: OpenSans-Light;
+  font-size: 24px;
+  margin-bottom: 0;
+  padding-left: 5px;
+}
+
+.header__title__section {
+  display: flex;
+  flex-direction: column;
+  background-color: #f4f4f4;
+  text-align: center;
+  height: 100%;
+}
+.header__title__section h2 {
+  padding: 50px 0;
+}
+.header__title__section p {
+  font-family: Montserrat-Regular;
+}
+.header__title__section .bold {
+  font-family: Montserrat-Bold;
+}
+
+h2 {
+  font-size: 120px;
+}
