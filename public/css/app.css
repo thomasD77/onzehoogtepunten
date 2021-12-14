@@ -33,8 +33,19 @@ h2 {
   font-size: 125px;
 }
 
-.plus {
+.link__style {
+  text-decoration: none;
+  color: black;
+}
+
+.link__style:hover {
+  transform: scale(1.2);
   font-family: OpenSans-Bold;
+  color: black;
+}
+
+.plus {
+  font-family: OpenSans-Light;
   font-size: 41px;
   margin-bottom: 0;
 }
@@ -98,15 +109,6 @@ footer p {
   font-size: 20px;
   font-family: OpenSans-Light;
 }
-footer .link__style {
-  text-decoration: none;
-  color: black;
-}
-footer .link__style:hover {
-  transform: scale(1.2);
-  font-family: OpenSans-Bold;
-  color: black;
-}
 
 @media (min-width: 1000px) {
   .tagline {
@@ -134,7 +136,7 @@ footer .link__style:hover {
 }
 @media (min-width: 1700px) {
   .header__title__section h2 {
-    font-size: 100px;
-    padding: 55px 0;
+    font-size: 120px;
+    padding: 45px 0;
   }
 }

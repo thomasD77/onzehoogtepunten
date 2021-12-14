@@ -42,11 +42,21 @@ h2 {
     font-size: 125px;
 }
 
+.link__style {
+    text-decoration: none;
+    color: black;
+}
+.link__style:hover {
+    transform: scale(1.2);
+    font-family: OpenSans-Bold;
+    color: black;
+}
+
 
 // Header //
 
 .plus {
-    font-family: OpenSans-Bold;
+    font-family: OpenSans-Light;
     font-size: 41px;
     margin-bottom: 0;
 }
@@ -118,15 +128,6 @@ footer {
         font-size: 20px;
         font-family: OpenSans-Light;
     }
-    .link__style {
-        text-decoration: none;
-        color: black;
-    }
-    .link__style:hover {
-        transform: scale(1.2);
-        font-family: OpenSans-Bold;
-        color: black;
-    }
 }
 
 
@@ -163,8 +164,8 @@ footer {
 @media (min-width: 1700px){
     .header__title__section {
         h2 {
-            font-size: 100px;
-            padding: 55px 0;
+            font-size: 120px;
+            padding: 45px 0;
         }
     }
 }

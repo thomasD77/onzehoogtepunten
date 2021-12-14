@@ -73,11 +73,15 @@
         <div class="row">
             <div class="col page__title">
                 <div class="title__layout">
-                    <p class="bold mb-0 me-2">De volledige Spotify lijst vind je hier</p>
-                    <i class="fa fa-spotify"
-                       style="font-size:35px;
+                    <a class="link__style" target="_blank" href="https://open.spotify.com/playlist/7tImFRvio4LZF1lNKtAJtm?si=716764d6d7574def">
+                        <div class="d-flex align-items-center">
+                            <p class="bold mb-0 me-2">De volledige Spotify lijst vind je hier</p>
+                            <i class="fa fa-spotify"
+                               style="font-size:35px;
                        color: rgb(29,214,96);">
-                    </i>
+                            </i>
+                        </div>
+                    </a>
                 </div>
                 <p class="my-2">Maar 'het waarom' van de songs vind je hieronder:</p>
             </div>
@@ -293,16 +297,16 @@
                         <h2 class="title__name">Hanne</h2>
                         <p><span class="bold">
                             Ik kan met zekerheid zeggen dat dit mijn groene camionette is !!</span>
-                            Waarom ik dit nummer gekozen heb? Ik heb zoveel verschillende redenen waarom.
+                            Waarom ik dit nummer gekozen heb? Ik heb zoveel verschillende redenen waarom. <br>
                             1) De lyrics, ik citeer hier even kort enkele zinnen.
                             “Only one head you’ve got, take good care of it!
                             Don’t make no bad inspiration influence you.
-                            Only good meditation should flow trough your head. ”
+                            Only good meditation should flow trough your head.” <br>
                             2) Heb dit lied leren kennen toen ik op rondreis was in Kroatië met een omgebouwde
                             camionette van een vriend. Na die reis werd het (nog meer) duidelijk dat het mijn grootste
                             droom was om een eigen ‘van’ te bouwen. Heel veel mensen zeiden dat dit ‘dom’ was en grote
                             investering is.- bad inspiration
-                            Verbouwen van deze camionette - good meditation
+                            Verbouwen van deze camionette - good meditation <br>
                             3) Dit nummer, zon, natuur & rijden maar
                         </p>
                         <div class="spotify__section">
@@ -362,7 +366,7 @@
         </div>
     </main>
     <div class="banner">
-            <p class="mb-0 bold pt-3"> Zorgen wij volgend jaar samen voor jullie prefessionele hoogtepunten ? </p>
+            <p class="mb-0 bold pt-3"> Zorgen wij volgend jaar samen voor jullie professionele hoogtepunten ? </p>
             <p class="bold pb-3"> Contacteer Ntriga of Maquina hieronder</p>
     </div>
     <footer class="container-fluid">
