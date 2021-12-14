@@ -189,8 +189,8 @@
                     <div class="col-md-7">
                         <h2 class="title__name">Peter</h2>
                         <p><span class="bold">
-                            Het gaat niet altijd om grote hoogtepunten maar veelal om de kleine gelukjes.</span> Ik heb dit in
-                            corona-tijden toch wel opnieuw moeten ‘leren’ appreciëren. Bijvoorbeeld een dagje uitwaaien
+                            Het gaat niet altijd om grote hoogtepunten maar veelal om de kleine gelukjes.</span><br>
+                            Ik heb dit in corona-tijden toch wel opnieuw moeten ‘leren’ appreciëren. Bijvoorbeeld een dagje uitwaaien
                             op strand met het gezin en de hond. Je kleine meid zien lopen aan het water, appelbeignets
                             eten… :-)
                             Gewoon even weg van de rush van het leven… door een korte uitstap, een citytrip, een avondje
@@ -234,10 +234,10 @@
                     <div class="col-md-7">
                         <h2 class="title__name">Joyce</h2>
                         <p><span class="bold">
-                            Niemand minder dan JUSTIN BIEBER komt in 2023 terug naar België.</span>
+                            Niemand minder dan JUSTIN BIEBER komt in 2023 terug naar België.</span><br>
                             Na 7 jaar zal hij ein-de-lijk nog eens voet aan Belgische bodem zetten. Afgelopen week was
                             de ticketverkoop en ik heb tickets bemachtigd voor zijn concert in België, maar ook in
-                            Nederland.
+                            Nederland. <br>
                             Voor mij kan het niet snel genoeg 2023 zijn, maar eerst nog heel hard genieten de laatste
                             weken van 2021 en het hele jaar 2022. Leuke toevoeging dit jaar keek ik nog uit naar het
                             concert van Niels Destadsbader. Bij het liedje dat ik heb gekozen kan je niet stil zitten en
@@ -280,7 +280,7 @@
                     <div class="col-md-7">
                         <h2 class="title__name">Pieter</h2>
                         <p><span class="bold">
-                            De jaarlijkse mannenavond met zoon en schoonzoon.</span>
+                            De jaarlijkse mannenavond met zoon en schoonzoon.</span><br>
                             Toen deze song uitkwam ging er geen moment in de auto voorbij dat m’n dochter Pauline niet vroeg om het op te leggen.
                         </p>
                         <div class="spotify__section">
@@ -296,16 +296,16 @@
                     <div class="col-md-7">
                         <h2 class="title__name">Hanne</h2>
                         <p><span class="bold">
-                            Ik kan met zekerheid zeggen dat dit mijn groene camionette is !!</span>
+                            Ik kan met zekerheid zeggen dat dit mijn groene camionette is !!</span><br>
                             Waarom ik dit nummer gekozen heb? Ik heb zoveel verschillende redenen waarom. <br>
-                            1) De lyrics, ik citeer hier even kort enkele zinnen.
-                            “Only one head you’ve got, take good care of it!
-                            Don’t make no bad inspiration influence you.
-                            Only good meditation should flow trough your head.” <br>
+                            1) De lyrics, ik citeer hier even kort enkele zinnen. <br>
+                            “Only one head you’ve got, take good care of it! <br>
+                            Don’t make no bad inspiration influence you. <br>
+                            Only good meditation should flow through your head.” <br>
                             2) Heb dit lied leren kennen toen ik op rondreis was in Kroatië met een omgebouwde
                             camionette van een vriend. Na die reis werd het (nog meer) duidelijk dat het mijn grootste
                             droom was om een eigen ‘van’ te bouwen. Heel veel mensen zeiden dat dit ‘dom’ was en grote
-                            investering is.- bad inspiration
+                            investering is.- bad inspiration <br>
                             Verbouwen van deze camionette - good meditation <br>
                             3) Dit nummer, zon, natuur & rijden maar
                         </p>
@@ -331,7 +331,7 @@
                     <div class="col-md-7">
                         <h2 class="title__name">Lisanne</h2>
                         <p><span class="bold">
-                            Een nieuwbouwhuis kopen is een hele ervaring.</span>
+                            Een nieuwbouwhuis kopen is een hele ervaring.</span><br>
                             Er komt zoveel bij kijken! Toch ben ik blij dat we nu alles naar onze eigen smaak kunnen
                             kiezen en dat we binnenkort van onze mooie woning kunnen genieten.
                         </p>
