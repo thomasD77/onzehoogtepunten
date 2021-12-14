@@ -61,7 +61,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6 px-0 mt-3 mt-md-0">
+            <div class="col-lg-6 px-0 mt-0">
                 <img class="img-fluid" src="{{ asset('images/header_img.png') }}" alt="header_img">
             </div>
         </div>
