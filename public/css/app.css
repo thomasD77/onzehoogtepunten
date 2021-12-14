@@ -24,10 +24,6 @@ main, header {
   font-family: Montserrat-Light;
 }
 
-body {
-  overflow: hidden;
-}
-
 .bold {
   font-family: Montserrat-Bold;
 }
