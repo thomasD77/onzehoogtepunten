@@ -56,7 +56,7 @@
                             </span>
                         </div>
                         <div>
-                            <img class="img-fluid mt-3" src="{{ asset('images/smiley.png') }}" alt="smiley">
+                            <img class="img-fluid mt-3 smiley" src="{{ asset('images/smiley.png') }}" alt="smiley">
                         </div>
                     </div>
                 </div>
