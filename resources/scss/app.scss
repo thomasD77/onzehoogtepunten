@@ -102,6 +102,8 @@ h2 {
     display: flex;
     align-items: center;
     justify-content: center;
+    text-decoration: none;
+    color: black;
 }
 
 .horizontal_line {
@@ -111,6 +113,11 @@ h2 {
 .title__name {
     font-size: 75px;
 }
+
+.spotify__button {
+    text-align: center;
+}
+
 
 // Banner //
 

@@ -62,7 +62,7 @@
                 </div>
             </div>
             <div class="col-lg-6 px-0 mt-0">
-                <img class="img-fluid" src="{{ asset('images/header_img.png') }}" alt="header_img">
+                <img class="img-fluid" src="{{ asset('images/header_gif.gif') }}" alt="header_img">
             </div>
         </div>
     </div>
@@ -73,13 +73,9 @@
         <div class="row">
             <div class="col page__title">
                 <div class="title__layout">
-                    <a class="link__style" target="_blank" href="https://open.spotify.com/playlist/7tImFRvio4LZF1lNKtAJtm?si=716764d6d7574def">
+                    <a class="link__style btn btn-secondary" target="_blank" href="https://open.spotify.com/playlist/7tImFRvio4LZF1lNKtAJtm?si=716764d6d7574def">
                         <div class="d-flex align-items-center">
-                            <p class="bold mb-0 me-2">De volledige Spotify lijst vind je hier</p>
-                            <i class="fa fa-spotify"
-                               style="font-size:35px;
-                       color: rgb(29,214,96);">
-                            </i>
+                            De volledige Spotify lijst vind je hier<i class="fa fa-spotify ms-2" style="font-size:35px;color: rgb(29,214,96);"></i>
                         </div>
                     </a>
                 </div>
@@ -104,10 +100,10 @@
                             landschap van Toscane is letterlijk adembenemend. Doelen stellen en genieten van de kleine dingen is
                             waarvoor ik leef.
                         </p>
-                        <div class="spotify__section">
+                        <a href="https://open.spotify.com/playlist/7tImFRvio4LZF1lNKtAJtm?si=716764d6d7574def" target="_blank" class="spotify__section">
                             <i class="fa fa-spotify" style="font-size:35px;color: rgb(29,214,96);"></i>
                             <p class="mb-0 ms-3"><span class="bold">Mare (We’ve Lost Dancing) </span> - Fred again... The Blessed Madonna</p>
-                        </div>
+                        </a>
                     </div>
                 </article>
 
@@ -125,10 +121,10 @@
                             lanceren, en dan nog ééntje met een uniek gegeven: Matching Outfits, enkel voor mama’s en
                             hun zoontjes - maar op een heel subtiele manier!
                         </p>
-                        <div class="spotify__section">
+                        <a href="https://open.spotify.com/playlist/7tImFRvio4LZF1lNKtAJtm?si=716764d6d7574def" target="_blank" class="spotify__section">
                             <i class="fa fa-spotify" style="font-size:35px;color: rgb(29,214,96);"></i>
                             <p class="mb-0 ms-3"><span class="bold">In de schuur</span> - Snelle & Ronny Flex</p>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-md-5 my-3 my-md-0">
                         <div class="d-flex justify-content-end">
@@ -150,10 +146,10 @@
                             mijn eigen bier leerde maken. Maar op de eerste plaats dus: de geboorte van mijn eerste
                             kindje.
                         </p>
-                        <div class="spotify__section">
+                        <a href="https://open.spotify.com/playlist/7tImFRvio4LZF1lNKtAJtm?si=716764d6d7574def" target="_blank" class="spotify__section">
                             <i class="fa fa-spotify" style="font-size:35px;color: rgb(29,214,96);"></i>
                             <p class="mb-0 ms-3"><span class="bold">Baby</span> - Justin Bieber</p>
-                        </div>
+                        </a>
                     </div>
                 </article>
 
@@ -168,10 +164,10 @@
                             fietsen, het eten, de wijnen, Zuid Frankrijk. Het eindpunt lag aan de Middellandse Zee,
                             vandaar onderstaand nummer.
                         </p>
-                        <div class="spotify__section">
+                        <a href="https://open.spotify.com/playlist/7tImFRvio4LZF1lNKtAJtm?si=716764d6d7574def" target="_blank" class="spotify__section">
                             <i class="fa fa-spotify" style="font-size:35px;color: rgb(29,214,96);"></i>
                             <p class="mb-0 ms-3"><span class="bold">De Zji</span> - Ertebrekers</p>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-md-5 my-3 my-md-0">
                         <div class="d-flex justify-content-end">
@@ -196,10 +192,10 @@
                             Gewoon even weg van de rush van het leven… door een korte uitstap, een citytrip, een avondje
                             gezelligheid… met de mensen waarvan je houdt.
                         </p>
-                        <div class="spotify__section">
+                        <a href="https://open.spotify.com/playlist/7tImFRvio4LZF1lNKtAJtm?si=716764d6d7574def" target="_blank" class="spotify__section">
                             <i class="fa fa-spotify" style="font-size:35px;color: rgb(29,214,96);"></i>
                             <p class="mb-0 ms-3"><span class="bold">Perfect day-</span> - Lou Reed</p>
-                        </div>
+                        </a>
                     </div>
                 </article>
 
@@ -213,10 +209,10 @@
                             de living. Mijn song? Een nogal speciale Kortrijkse metalband die ik al een paar keer live
                             zag en best goed vind!
                         </p>
-                        <div class="spotify__section">
+                        <a href="https://open.spotify.com/playlist/7tImFRvio4LZF1lNKtAJtm?si=716764d6d7574def" target="_blank" class="spotify__section">
                             <i class="fa fa-spotify" style="font-size:35px;color: rgb(29,214,96);"></i>
                             <p class="mb-0 ms-3"><span class="bold">Boden</span> - Amenra</p>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-md-5 my-3 my-md-0">
                         <div class="d-flex justify-content-end">
@@ -243,10 +239,10 @@
                             concert van Niels Destadsbader. Bij het liedje dat ik heb gekozen kan je niet stil zitten en
                             dat is exact wat ik zal hebben bij het concert van Niels & Justin Bieber ;-).
                         </p>
-                        <div class="spotify__section">
+                        <a href="https://open.spotify.com/playlist/7tImFRvio4LZF1lNKtAJtm?si=716764d6d7574def" target="_blank" class="spotify__section">
                             <i class="fa fa-spotify" style="font-size:35px;color: rgb(29,214,96);"></i>
                             <p class="mb-0 ms-3"><span class="bold">Can't stop the feeling</span> - Justin Timberlake</p>
-                        </div>
+                        </a>
                     </div>
                 </article>
 
@@ -259,10 +255,10 @@
                             Samenwonen met mijn vriendin :-)</span> is 100% zeker mijn hoogtepunt in 2021.
                             Na 3 jaar renoveren is het eindelijk zover, dus vind ik dit nummer wel toepasselijk:
                         </p>
-                        <div class="spotify__section">
+                        <a href="https://open.spotify.com/playlist/7tImFRvio4LZF1lNKtAJtm?si=716764d6d7574def" target="_blank" class="spotify__section">
                             <i class="fa fa-spotify" style="font-size:35px;color: rgb(29,214,96);"></i>
                             <p class="mb-0 ms-3"><span class="bold">Finally</span> - CeCe Peniston</p>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-md-5 my-3 my-md-0">
                         <div class="d-flex justify-content-end">
@@ -283,10 +279,10 @@
                             De jaarlijkse mannenavond met zoon en schoonzoon.</span><br>
                             Toen deze song uitkwam ging er geen moment in de auto voorbij dat m’n dochter Pauline niet vroeg om het op te leggen.
                         </p>
-                        <div class="spotify__section">
+                        <a href="https://open.spotify.com/playlist/7tImFRvio4LZF1lNKtAJtm?si=716764d6d7574def" target="_blank" class="spotify__section">
                             <i class="fa fa-spotify" style="font-size:35px;color: rgb(29,214,96);"></i>
                             <p class="mb-0 ms-3"><span class="bold">Beggin</span> - Mäneskin</p>
-                        </div>
+                        </a>
                     </div>
                 </article>
 
@@ -309,10 +305,10 @@
                             Verbouwen van deze camionette - good meditation <br>
                             3) Dit nummer, zon, natuur & rijden maar
                         </p>
-                        <div class="spotify__section">
+                        <a href="https://open.spotify.com/playlist/7tImFRvio4LZF1lNKtAJtm?si=716764d6d7574def" target="_blank" class="spotify__section">
                             <i class="fa fa-spotify" style="font-size:35px;color: rgb(29,214,96);"></i>
                             <p class="mb-0 ms-3"><span class="bold">One head</span> - Twinkle Brothers</p>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-md-5 my-3 my-md-0">
                         <div class="d-flex justify-content-end">
@@ -335,10 +331,10 @@
                             Er komt zoveel bij kijken! Toch ben ik blij dat we nu alles naar onze eigen smaak kunnen
                             kiezen en dat we binnenkort van onze mooie woning kunnen genieten.
                         </p>
-                        <div class="spotify__section">
+                        <a href="https://open.spotify.com/playlist/7tImFRvio4LZF1lNKtAJtm?si=716764d6d7574def" target="_blank" class="spotify__section">
                             <i class="fa fa-spotify" style="font-size:35px;color: rgb(29,214,96);"></i>
                             <p class="mb-0 ms-3"><span class="bold">Coming Home</span> - Sheppard</p>
-                        </div>
+                        </a>
                     </div>
                 </article>
 
@@ -350,10 +346,10 @@
                         <p><span class="bold">
                             Mijn hoogtepunt is dat ik dit jaar 3500 km zal gefietst hebben,</span> wat voor mij een nieuw record is.
                         </p>
-                        <div class="spotify__section">
+                        <a href="https://open.spotify.com/playlist/7tImFRvio4LZF1lNKtAJtm?si=716764d6d7574def" target="_blank" class="spotify__section">
                             <i class="fa fa-spotify" style="font-size:35px;color: rgb(29,214,96);"></i>
                             <p class="mb-0 ms-3"><span class="bold">Ploegsteert</span> - Zesde Metaal</p>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-md-5 my-3 my-md-0">
                         <div class="d-flex justify-content-end">
